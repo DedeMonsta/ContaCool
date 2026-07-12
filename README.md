@@ -3,6 +3,8 @@
 Aplicație React Native + Expo pentru învățarea documentelor contabile românești.
 Dezvoltată pentru lucrarea de licență la FEAA UAIC Iași.
 
+Aplicațiile de contabilitate disponibile pe Google Play nu acoperă reglementările contabile din România. ContaCool umple acest gol: un instrument de învățare gamificat, aliniat la legislația fiscală în vigoare, construit pentru studenți și angajați la început de drum.
+
 ## Caracteristici principale
 
 - **Tutorial pedagogic** de 4 mini-lecții pentru începători
