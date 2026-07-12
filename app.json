@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "ContaCool",
+    "slug": "contacool",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#4F46E5",
+      "resizeMode": "contain"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4F46E5"
+      },
+      "package": "com.contacool.app"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.contacool.app"
+    },
+    "web": {}
+  }
+}
