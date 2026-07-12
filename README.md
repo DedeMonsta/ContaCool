@@ -1,4 +1,4 @@
-# ContaCool v2.0 - Aplicație Android educațională
+# ContaCool  - Aplicație Android educațională
 
 Aplicație React Native + Expo pentru învățarea documentelor contabile românești.
 Dezvoltată pentru lucrarea de licență la FEAA UAIC Iași.
